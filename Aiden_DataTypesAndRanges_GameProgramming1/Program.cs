@@ -31,7 +31,7 @@ namespace Aiden_DataTypesAndRanges_GameProgramming1
         {
             Console.WriteLine($"The smallest number you can have with a short is: {shortExample}\nThe biggest number you can have with a uint is: {shortExample = 32767}");
             Console.ReadKey();
-            Console.WriteLine($"A ushort has the same differences with a short as uint has with int, so smallest number you can have with a ushort is: {ushortExample}\nThe biggest number you can have with a ushort is: {ushortExample = 65535}");
+            Console.WriteLine($"A ushort has the same differences with short as uint has with int, so smallest number you can have with a ushort is: {ushortExample}\nThe biggest number you can have with a ushort is: {ushortExample = 65535}");
             Console.ReadKey();
             Console.Clear();
         }
